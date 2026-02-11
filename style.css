@@ -1,0 +1,45 @@
+body {
+  background: #ffe6eb;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.container {
+  margin-top: 80px;
+}
+
+h1 {
+  color: #d6336c;
+}
+
+.buttons {
+  margin-top: 30px;
+}
+
+button {
+  padding: 12px 25px;
+  font-size: 18px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+#yesBtn {
+  background: #ff4d6d;
+  color: white;
+}
+
+#noBtn {
+  background: #adb5bd;
+  position: absolute;
+}
+
+.hidden {
+  display: none;
+}
+
+img {
+  width: 280px;
+  margin-top: 20px;
+  border-radius: 15px;
+}
